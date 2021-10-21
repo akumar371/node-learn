@@ -81,7 +81,7 @@ const result = util.format(txt, 'John', 12)
 console.log(result);
 
 //import own modules
-console.log("Sum of 10 and 20 is : " + sum(10, 20));
+console.log("Sum of 30 and 40 is : " + sum(30, 40));
 
 console.log("Today date and time is : " + date());
 
